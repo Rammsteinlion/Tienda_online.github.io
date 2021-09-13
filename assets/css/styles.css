@@ -14,8 +14,10 @@
   --second-color-alt: #D2321E;
   --white-color: #FAFAFF;
   --dark-color: #101010;
+ /* --dark-color-light: #606060;
+  --gray-color: #F0F1F3;*/
   --dark-color-light: #606060;
-  --gray-color: #F0F1F3;
+  --gray-color: #f0eded;
 }
 
 /*===== Fuente y tipografia =====*/
